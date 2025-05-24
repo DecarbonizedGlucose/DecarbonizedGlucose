@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Ciallo~
+Ciallo∼(∠・ω< )⌒☆
 zrsです。
 
 <!--
