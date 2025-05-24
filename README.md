@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Ciallo∼(∠・ω< )⌒☆
-zrsです。
+Ciallo∼(∠・ω< )⌒☆<br />
+                           zrsです。
 
 <!--
 **DecarbonizedGlucose/DecarbonizedGlucose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
