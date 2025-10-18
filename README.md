@@ -46,9 +46,9 @@
 
 <div align="center">
   <a href="https://github.com/DecarbonizedGlucose"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
-  <a href="https://leetcode.cn/u/DecarbonizedGlucose/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode"></a>
-  <a href="https://blog.csdn.net/thelinghai"><img src="https://img.shields.io/badge/-CSDN-DC382D?style=flat-square&logo=csdn"></a>
-  <a href="mailto:1662308219z@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.cn/u/inspiring-haibtkl6/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode"></a>
+  <a href="https://blog.csdn.net/qq_53766808"><img src="https://img.shields.io/badge/-CSDN-DC382D?style=flat-square&logo=csdn"></a>
+  <a href="mailto:isRuoshui-Zhang@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecarbonizedGlucose&exclude_repo=skillhub,ssm-learning,netty,student-java-lab,data-structures,ttms,linux-lab-exercises,xv6-2021&layout=compact" />
