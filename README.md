@@ -1,6 +1,6 @@
 <img src="assets/dingdong.png" width="300" alt="My Image">
 
-Computer Science undergraduate (Year 2).
+Computer Science undergraduate (Year 3).
 
 Focused on backend and distributed systems.
 Daily driver: Linux (Arch).
